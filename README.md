@@ -7,7 +7,7 @@
 
 ### 👨‍💻 All of my projects can be found at my [Github Profile](https://github.com/vaiperboy)
 - My latest projects can be found [here](https://github.com/vaiperboy) 
-- My old projects that I never bothered to upload on Github can be found [here](https://github.com/vaiperboy/Old-Untracked-Projects). Even though they're old, I am really proud of them since I developed them of a young age
+- My other old projects that I never bothered to upload on Github can be found [here](https://github.com/vaiperboy/Old-Untracked-Projects).
 
 ### 💬 Ask me about anything computer-related, I might be able to help
 
