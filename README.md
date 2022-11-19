@@ -11,7 +11,7 @@
 
 ### 💬 Ask me about anything computer-related, I might be able to help
 
-### 📫 How to reach me: **~~InfoSec~~ 👀
+### 📫 How to reach me: ~~InfoSec~~ 👀
 
 ### 📄 Know about my experiences 
 - Fluent in C# (or at least I like to think I am?)
