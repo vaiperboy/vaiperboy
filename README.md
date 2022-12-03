@@ -15,7 +15,7 @@
 
 ### 📄 Know about my experiences 
 - Fluent in C# (or at least I like to think I am?)
-- Python, NodeJS (ReactJS & ExpressJS), PHP, React
+- Python, NodeJS (ReactJS & ExpressJS), PHP
 - Front-end development with ReactJS, HTML5, Sass (but i hate it)
 - Web3.0 Developer (take a look at my project [here](https://github.com/vaiperboy/PropBlock))
 - Backend developments in variety of languagues
