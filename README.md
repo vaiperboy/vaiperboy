@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ahmed Ennab</h1>
 <h3 align="center">I am a passionate software developer from the age of 14 years old. Alongside the programming side of mine, I have been deeply involved in the Cyber Security world with its many different branches (I love reverse engineering websites & binaries)</h3>
 
 ### 🔭 I’m currently working on [PropBlock](https://github.com/vaiperboy/PropBlock)
@@ -15,7 +14,7 @@
 
 ### 📄 Know about my experiences 
 - Fluent in C# (or at least I like to think I am?)
-- Python, NodeJS (ReactJS & ExpressJS), PHP
+- Python, NodeJS (ReactJS & ExpressJS), PHP, C++
 - Front-end development with ReactJS, HTML5, Sass (but i hate it)
 - Web3.0 Developer (take a look at my project [here](https://github.com/vaiperboy/PropBlock))
 - Backend developments in variety of languagues
